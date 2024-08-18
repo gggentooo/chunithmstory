@@ -1,0 +1,30 @@
+[
+    {
+      "name": "캐릭터 A",
+      "version": "1.0",
+      "episode": "에피소드 1",
+      "label": "라벨 A",
+      "image": "images/character_a.jpg",
+      "story_folder": "characters/character_a/",
+      "episode_count": 4
+    },
+    {
+      "name": "캐릭터 B",
+      "version": "2.0",
+      "episode": "에피소드 2",
+      "label": "라벨 B",
+      "image": "images/character_b.jpg",
+      "story_folder": "characters/character_b/",
+      "episode_count": 12
+    },
+    {
+      "name": "캐릭터 C",
+      "version": "1.5",
+      "episode": "에피소드 3",
+      "label": "라벨 C",
+      "image": "images/character_c.jpg",
+      "story_folder": "characters/character_c/",
+      "episode_count": 7
+    }
+  ]
+  

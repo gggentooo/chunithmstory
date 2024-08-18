@@ -1,0 +1,30 @@
+[
+    {
+      "name": "キャラクターA",
+      "version": "1.0",
+      "episode": "エピソード1",
+      "label": "ラベルA",
+      "image": "images/character_a.jpg",
+      "story_folder": "characters/character_a/",
+      "episode_count": 4
+    },
+    {
+      "name": "キャラクターB",
+      "version": "2.0",
+      "episode": "エピソード2",
+      "label": "ラベルB",
+      "image": "images/character_b.jpg",
+      "story_folder": "characters/character_b/",
+      "episode_count": 12
+    },
+    {
+      "name": "キャラクターC",
+      "version": "1.5",
+      "episode": "エピソード3",
+      "label": "ラベルC",
+      "image": "images/character_c.jpg",
+      "story_folder": "characters/character_c/",
+      "episode_count": 7
+    }
+  ]
+  
