@@ -1,21 +1,21 @@
 {
-    "character_list": "캐릭터 목록",
-    "language": "언어 설정",
-    "sort_by": "정렬 방식",
-    "version": "버전",
-    "episode": "에피소드",
-    "label": "레이블",
-    "read_stories": "스토리 읽기",
-    "labels": {
-      "mtv": "메타버스",
-      "stc": "SeelischTact",
-      "gmn": "GUMIN",
-      "rlt": "릴레이션",
-      "god": "Genesis Of Destiny",
-      "anm": "애니멀리아",
-      "sbl": "시뷸라 정령기",
-      "omn": "옴니버스",
-      "oth": "기타"
-    }
-  }
-  
+  "character_list": "캐릭터 목록",
+  "language": "언어 설정",
+  "sort_by": "정렬 방식",
+  "version": "버전",
+  "episode": "에피소드",
+  "label": "레이블",
+  "read_stories": "스토리 읽기",
+  "labels": {
+    "mtv": "메타버스",
+    "stc": "SeelischTact",
+    "gmn": "GUMIN",
+    "rlt": "릴레이션",
+    "god": "Genesis Of Destiny",
+    "anm": "애니멀리아",
+    "sbl": "시뷸라 정령기",
+    "omn": "옴니버스",
+    "oth": "기타"
+  },
+  "copyright": "당 사이트의 모든 이미지와 글을 포함한 저작물은 ©SEGA에 있습니다."
+}

@@ -1,21 +1,21 @@
 {
-    "character_list": "キャラクターリスト",
-    "language": "言語設定",
-    "sort_by": "並び替え",
-    "version": "バージョン",
-    "episode": "エピソード",
-    "label": "レーベル",
-    "read_stories": "ストーリーを読む",
-    "labels": {
-      "mtv": "メタヴァース",
-      "stc": "SeelischTact",
-      "gmn": "GUMIN",
-      "rlt": "リレイション",
-      "god": "Genesis Of Destiny",
-      "anm": "アニマリア",
-      "sbl": "シビュラ精霊記",
-      "omn": "オムニバス",
-      "oth": "その他"
-    }
-  }
-  
+  "character_list": "キャラクターリスト",
+  "language": "言語設定",
+  "sort_by": "並び替え",
+  "version": "バージョン",
+  "episode": "エピソード",
+  "label": "レーベル",
+  "read_stories": "ストーリーを読む",
+  "labels": {
+    "mtv": "メタヴァース",
+    "stc": "SeelischTact",
+    "gmn": "GUMIN",
+    "rlt": "リレイション",
+    "god": "Genesis Of Destiny",
+    "anm": "アニマリア",
+    "sbl": "シビュラ精霊記",
+    "omn": "オムニバス",
+    "oth": "その他"
+  },
+  "copyright": "当サイトのすべての画像およびコンテンツは©SEGAに帰属します。"
+}

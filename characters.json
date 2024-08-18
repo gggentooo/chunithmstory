@@ -79,5 +79,14 @@
     "episode": "ep. II",
     "label": "sbl",
     "id": "siero_mowe"
+  },
+  {
+    "name_en": "Nia Bathsheba",
+    "name_ko": "니아・바테시바",
+    "name_ja": "ニア・バテシバ",
+    "version": "SUN",
+    "episode": "ep. V",
+    "label": "mtv",
+    "id": "nia_bathsheba"
   }
 ]

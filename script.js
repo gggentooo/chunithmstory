@@ -39,14 +39,18 @@ function loadCharacterData() {
 
 // Update the UI with translations
 function updateUIWithTranslations() {
-  const languageLabel = document.querySelector('label[for="select-language"]');
-  const sortByLabel = document.querySelector('label[for="sort-by"]');
+  const languageLabel = document.querySelector('label[for="language-select"]');
+  const sortByLabel = document.querySelector('label[for="sort-select"]');
+  const copyrightStatement = document.getElementById('copyright-statement');
 
   if (languageLabel) {
-    languageLabel.textContent = translations.language || 'Character List';
+    languageLabel.textContent = translations.character_list || 'Character List';
   }
   if (sortByLabel) {
     sortByLabel.textContent = translations.sort_by || 'Sort By';
+  }
+  if (copyrightStatement) {
+    copyrightStatement.textContent = translations.copyright || 'All images and content on this site are ©SEGA.';
   }
 }
 
