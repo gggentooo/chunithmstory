@@ -3,32 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Character Website</title>
+    <title>Character Stories</title>
     <link rel="stylesheet" href="styles.css">
-    <script src="https://cdn.jsdelivr.net/npm/marked@3.0.7/marked.min.js"></script>
-    <script src="script.js" defer></script>
 </head>
 <body>
-    <header>
-        <label for="language-select">Language:</label>
+    <div>
+        <label for="language-select">Select Language:</label>
         <select id="language-select">
-            <option value="en">English</option>
             <option value="ja">Japanese</option>
+            <option value="en">English</option>
             <option value="ko">Korean</option>
         </select>
 
         <label for="sort-select">Sort By:</label>
         <select id="sort-select">
-            <option value="name">Name</option>
+            <option value="name_en">Name</option>
             <option value="version">Version</option>
             <option value="episode">Episode</option>
             <option value="label">Label</option>
         </select>
-    </header>
+    </div>
 
-    <main>
-        <div id="character-list"></div>
-        <div id="story-content"></div>
-    </main>
+    <div id="character-list"></div>
+
+    <!-- Modal Structure -->
+    <div id="story-modal" class="modal">
+        <div class="modal-content">
+            <span id="close-modal" class="close">&times;</span>
+            <div id="story-content"></div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked@3.0.7/marked.min.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>

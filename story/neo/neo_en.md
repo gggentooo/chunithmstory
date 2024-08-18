@@ -1,4 +1,4 @@
-# EPISODE 1: "I will remake your rotten ears... and show you the transformation of the Metaverse."
+### EPISODE 1: "I will remake your rotten ears... and show you the transformation of the Metaverse."
 
 Residing on the fringe system of the virtual world Metaverse, the original custom avatar.
 He was booked into a sound wave structure known as VOX and was entrusted with its management.

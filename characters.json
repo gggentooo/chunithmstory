@@ -6,20 +6,38 @@
       "version": "無印",
       "episode": "無印 - 稼働初期",
       "label": "メタヴァース",
-      "image": "images/neo_icon.png",
-      "story_folder": "characters/neo/",
+      "id": "neo",
       "episode_count": 11
     },
     {
-      "name_en": "Character B",
-      "name_ko": "캐릭터 B",
-      "name_ja": "キャラクター B",
-      "version": "2.0",
-      "episode": "Episode 2",
-      "label": "Label D",
-      "image": "images/character_b.jpg",
-      "story_folder": "characters/character_b/",
-      "episode_count": 5
+      "name_en": "Brillante",
+      "name_ko": "브릴란테",
+      "name_ja": "ブリランテ",
+      "version": "無印",
+      "episode": "無印 - 稼働初期",
+      "label": "メタヴァース",
+      "id": "brillante",
+      "episode_count": 11
+    },
+    {
+      "name_en": "Grave Nova",
+      "name_ko": "그라베・노바",
+      "name_ja": "グラーヴェ・ノーヴァ",
+      "version": "無印",
+      "episode": "無印 - 2016年2月4日アップデート",
+      "label": "メタヴァース",
+      "id": "grave_nova",
+      "episode_count": 11
+    },
+    {
+      "name_en": "Pendulum Alter",
+      "name_ko": "펜듈럼・얼터",
+      "name_ja": "ペンデュラム・オルタ",
+      "version": "無印",
+      "episode": "無印 - 2016年2月4日アップデート",
+      "label": "メタヴァース",
+      "id": "pendulum_alter",
+      "episode_count": 11
     }
   ]
   
