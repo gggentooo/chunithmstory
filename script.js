@@ -81,10 +81,10 @@ function displayCharacters() {
     characterDiv.classList.add('character');
     characterDiv.innerHTML = `
       <h2>${characterName}</h2>
+      <img src="images/${character.id}_icon.png" alt="${characterName}">
       <p>${translations.version || 'Version'}: ${character.version}</p>
       <p>${translations.episode || 'Episode'}: ${character.episode}</p>
       <p>${translations.label || 'Label'}: ${character.label}</p>
-      <img src="images/${character.id}_icon.png" alt="${characterName}">
       <button onclick="loadStory('${character.id}')">${translations.read_stories || 'Read Stories'}</button>
     `;
     characterList.appendChild(characterDiv);
