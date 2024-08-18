@@ -1,8 +1,21 @@
 {
     "character_list": "Character List",
+    "language": "Language",
+    "sort_by": "Sort By",
     "version": "Version",
     "episode": "Episode",
     "label": "Label",
-    "read_stories": "Read Stories"
+    "read_stories": "Read Story",
+    "labels": {
+      "mtv": "Metaverse",
+      "stc": "SeelischTact",
+      "gmn": "GUMIN",
+      "rlt": "Relation",
+      "god": "Genesis Of Destiny",
+      "anm": "Animalia",
+      "sbl": "Sibyl",
+      "omn": "Omniverse",
+      "oth": "Other"
+    }
   }
   

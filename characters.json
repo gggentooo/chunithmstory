@@ -3,41 +3,64 @@
       "name_en": "NEO",
       "name_ko": "NEO",
       "name_ja": "NEO",
-      "version": "無印",
-      "episode": "無印 - 稼働初期",
-      "label": "メタヴァース",
-      "id": "neo",
-      "episode_count": 11
+      "version": "CHUNITHM",
+      "episode": "-",
+      "label": "mtv",
+      "id": "neo"
     },
     {
       "name_en": "Brillante",
       "name_ko": "브릴란테",
       "name_ja": "ブリランテ",
-      "version": "無印",
-      "episode": "無印 - 稼働初期",
-      "label": "メタヴァース",
-      "id": "brillante",
-      "episode_count": 11
+      "version": "CHUNITHM",
+      "episode": "-",
+      "label": "mtv",
+      "id": "brillante"
     },
     {
       "name_en": "Grave Nova",
       "name_ko": "그라베・노바",
       "name_ja": "グラーヴェ・ノーヴァ",
-      "version": "無印",
-      "episode": "無印 - 2016年2月4日アップデート",
-      "label": "メタヴァース",
-      "id": "grave_nova",
-      "episode_count": 11
+      "version": "CHUNITHM",
+      "episode": "-",
+      "label": "mtv",
+      "id": "grave_nova"
     },
     {
       "name_en": "Pendulum Alter",
       "name_ko": "펜듈럼・얼터",
       "name_ja": "ペンデュラム・オルタ",
-      "version": "無印",
-      "episode": "無印 - 2016年2月4日アップデート",
-      "label": "メタヴァース",
-      "id": "pendulum_alter",
-      "episode_count": 11
+      "version": "CHUNITHM",
+      "episode": "-",
+      "label": "mtv",
+      "id": "pendulum_alter"
+    },
+    {
+      "name_en": "Lilialice Corticum",
+      "name_ko": "리리아리스・코르티컴",
+      "name_ja": "リリアリス・コルチカム",
+      "version": "AIR",
+      "episode": "ep. III",
+      "label": "rlt",
+      "id": "lilialice_corticum"
+    },
+    {
+      "name_en": "Tsukui Shizuno",
+      "name_ko": "츠쿠이 시즈노",
+      "name_ja": "津久井 シズノ",
+      "version": "STAR",
+      "episode": "ep. I",
+      "label": "gmn",
+      "id": "tsukui_shizuno"
+    },
+    {
+      "name_en": "Naja Berlioz",
+      "name_ko": "나쟈・베를리오즈",
+      "name_ja": "ナージャ・ベルリオーズ",
+      "version": "AMAZON",
+      "episode": "ep. I",
+      "label": "god",
+      "id": "naja_berlioz"
     }
   ]
   
