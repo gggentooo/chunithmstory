@@ -25,7 +25,7 @@ body {
   
 .character-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  grid-template-columns: repeat(4, 1fr); /* 4 columns */
   gap: 20px; /* Space between items */
   padding: 20px;
 }

@@ -1,66 +1,83 @@
 [
-    {
-      "name_en": "NEO",
-      "name_ko": "NEO",
-      "name_ja": "NEO",
-      "version": "CHUNITHM",
-      "episode": "-",
-      "label": "mtv",
-      "id": "neo"
-    },
-    {
-      "name_en": "Brillante",
-      "name_ko": "브릴란테",
-      "name_ja": "ブリランテ",
-      "version": "CHUNITHM",
-      "episode": "-",
-      "label": "mtv",
-      "id": "brillante"
-    },
-    {
-      "name_en": "Grave Nova",
-      "name_ko": "그라베・노바",
-      "name_ja": "グラーヴェ・ノーヴァ",
-      "version": "CHUNITHM",
-      "episode": "-",
-      "label": "mtv",
-      "id": "grave_nova"
-    },
-    {
-      "name_en": "Pendulum Alter",
-      "name_ko": "펜듈럼・얼터",
-      "name_ja": "ペンデュラム・オルタ",
-      "version": "CHUNITHM",
-      "episode": "-",
-      "label": "mtv",
-      "id": "pendulum_alter"
-    },
-    {
-      "name_en": "Lilialice Corticum",
-      "name_ko": "리리아리스・코르티컴",
-      "name_ja": "リリアリス・コルチカム",
-      "version": "AIR",
-      "episode": "ep. III",
-      "label": "rlt",
-      "id": "lilialice_corticum"
-    },
-    {
-      "name_en": "Tsukui Shizuno",
-      "name_ko": "츠쿠이 시즈노",
-      "name_ja": "津久井 シズノ",
-      "version": "STAR",
-      "episode": "ep. I",
-      "label": "gmn",
-      "id": "tsukui_shizuno"
-    },
-    {
-      "name_en": "Naja Berlioz",
-      "name_ko": "나쟈・베를리오즈",
-      "name_ja": "ナージャ・ベルリオーズ",
-      "version": "AMAZON",
-      "episode": "ep. I",
-      "label": "god",
-      "id": "naja_berlioz"
-    }
-  ]
-  
+  {
+    "name_en": "NEO",
+    "name_ko": "NEO",
+    "name_ja": "NEO",
+    "version": "CHUNITHM",
+    "episode": "-",
+    "label": "mtv",
+    "id": "neo"
+  },
+  {
+    "name_en": "Brillante",
+    "name_ko": "브릴란테",
+    "name_ja": "ブリランテ",
+    "version": "CHUNITHM",
+    "episode": "-",
+    "label": "mtv",
+    "id": "brillante"
+  },
+  {
+    "name_en": "Grave Nova",
+    "name_ko": "그라베・노바",
+    "name_ja": "グラーヴェ・ノーヴァ",
+    "version": "CHUNITHM",
+    "episode": "-",
+    "label": "mtv",
+    "id": "grave_nova"
+  },
+  {
+    "name_en": "Pendulum Alter",
+    "name_ko": "펜듈럼・얼터",
+    "name_ja": "ペンデュラム・オルタ",
+    "version": "CHUNITHM",
+    "episode": "-",
+    "label": "mtv",
+    "id": "pendulum_alter"
+  },
+  {
+    "name_en": "Lilialice Corticum",
+    "name_ko": "리리아리스・코르티컴",
+    "name_ja": "リリアリス・コルチカム",
+    "version": "AIR",
+    "episode": "ep. III",
+    "label": "rlt",
+    "id": "lilialice_corticum"
+  },
+  {
+    "name_en": "Tsukui Shizuno",
+    "name_ko": "츠쿠이 시즈노",
+    "name_ja": "津久井 シズノ",
+    "version": "STAR",
+    "episode": "ep. I",
+    "label": "gmn",
+    "id": "tsukui_shizuno"
+  },
+  {
+    "name_en": "Naja Berlioz",
+    "name_ko": "나쟈・베를리오즈",
+    "name_ja": "ナージャ・ベルリオーズ",
+    "version": "AMAZON",
+    "episode": "ep. I",
+    "label": "god",
+    "id": "naja_berlioz"
+  },
+  {
+    "name_en": "Tita Avenias",
+    "name_ko": "티타・아베니아스",
+    "name_ja": "ティータ・アヴェニアス",
+    "version": "CRYSTAL",
+    "episode": "ep. II",
+    "label": "sbl",
+    "id": "tita_avenias"
+  },
+  {
+    "name_en": "Siero Möwe",
+    "name_ko": "시에로・메베",
+    "name_ja": "シエロ・メーヴェ",
+    "version": "CRYSTAL",
+    "episode": "ep. II",
+    "label": "sbl",
+    "id": "siero_mowe"
+  }
+]
