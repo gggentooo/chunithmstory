@@ -39,8 +39,8 @@ function loadCharacterData() {
 
 // Update the UI with translations
 function updateUIWithTranslations() {
-  const languageLabel = document.querySelector('label[for="language-select"]');
-  const sortByLabel = document.querySelector('label[for="sort-select"]');
+  const languageLabel = document.querySelector('label[for="select-language"]');
+  const sortByLabel = document.querySelector('label[for="sort-by"]');
   const copyrightStatement = document.getElementById('copyright-statement');
 
   if (languageLabel) {
